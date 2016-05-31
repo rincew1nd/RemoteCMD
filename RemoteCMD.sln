@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteCMDServer", "RemoteCMDServer\RemoteCMDServer.csproj", "{1CD50ABB-1FB9-424A-848E-A0ED96622F37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteCMDClient", "RemoteCMDClient\RemoteCMDClient.csproj", "{59911817-EF77-4B7C-BCAA-47438E5E1D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD50ABB-1FB9-424A-848E-A0ED96622F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD50ABB-1FB9-424A-848E-A0ED96622F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD50ABB-1FB9-424A-848E-A0ED96622F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD50ABB-1FB9-424A-848E-A0ED96622F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59911817-EF77-4B7C-BCAA-47438E5E1D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59911817-EF77-4B7C-BCAA-47438E5E1D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59911817-EF77-4B7C-BCAA-47438E5E1D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59911817-EF77-4B7C-BCAA-47438E5E1D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
